@@ -1,11 +1,15 @@
 ## Project Objectives
 Visualize COVID-19 trends by country
+
 Track confirmed, recovered, and death counts
+
 Analyze deaths per day using heatmaps and pivot tables
 
 ## Tools Used
 Microsoft Excel
+
 Pivot Tables, Charts, Conditional Formatting
+
 Dashboard with slicers
  
 ## Files Included
