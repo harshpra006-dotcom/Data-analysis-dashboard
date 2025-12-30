@@ -1,5 +1,5 @@
 ## COVID-19 Data Analysis Dashboard
-(Interactive dashboard using MS-EXCEL
+(Interactive dashboard using MS-EXCEL)
 
 ## Project Objectives
 Visualize COVID-19 trends by country
