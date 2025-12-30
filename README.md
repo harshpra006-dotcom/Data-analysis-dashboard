@@ -19,3 +19,4 @@ Covid-19 Dashboard.xlsx — main dashboard file
  
 ## Outcome
 An interactive Excel dashboard with slicers, visual trends, and heatmaps to support COVID-19 trend analysis.
+
